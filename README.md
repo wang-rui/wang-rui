@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rui Wang  
 
-I’m a Machine Learning Engineer with deep expertise in **search, recommendation, and AI systems**.  
+I’m a Machine Learning Engineer with experience in **search, recommendation, and AI systems**.  
 My work spans **machine learning, NLP, graph neural networks, generative AI, and scalable backend engineering**.  
 I enjoy building end-to-end ML systems — from data pipelines to production deployment — with a focus on **high-performance, real-world impact**.  
 
